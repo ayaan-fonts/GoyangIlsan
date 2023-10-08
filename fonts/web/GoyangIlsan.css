@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'GoyangIlsan';
+	font-weight: 400;
+	font-display: swap;
+	src: local('GoyangIlsan Regular'), url('./woff2/GoyangIlsan-Regular.woff2') format('woff2'), url('./woff/GoyangIlsan-Regular.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'GoyangIlsan';
+	font-weight: 300;
+	font-display: swap;
+	src: local('GoyangIlsan Light'), url('./woff2/GoyangIlsan-Light.woff2') format('woff2'), url('./woff/GoyangIlsan-Light.woff') format('woff');
+}
